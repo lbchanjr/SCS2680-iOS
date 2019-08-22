@@ -1,0 +1,107 @@
+{
+    "leagues":
+    [
+        {   "name": "Hockey",
+            "image": "hockey",
+            "games":
+            [
+            	{
+					"game_state": "Final",
+            		"game_time": 1457352000,
+					"home_team_city": "Calgary",
+            		"home_team_name": "Crabs",
+            		"home_team_score": 4,
+            		"home_team_logo": "crab",
+					"visit_team_city": "Burnaby",
+            		"visit_team_name": "Bees",
+            		"visit_team_score": 5,
+            		"visit_team_logo": "bee"
+            	},
+            	{
+					"game_state": "Pregame",
+            		"game_time": 1457359200,
+					"home_team_city": "Surrey",
+            		"home_team_name": "Caterpillars",
+            		"home_team_score": 0,
+            		"home_team_logo": "caterpillar",
+					"visit_team_city": "Montreal",
+            		"visit_team_name": "Fishes",
+            		"visit_team_score": 0,
+            		"visit_team_logo": "fish"
+            	},
+            	{
+					"game_state": "Pregame",
+            		"game_time": 1457362800,
+					"home_team_city": "Alberta",
+            		"home_team_name": "Pigs",
+            		"home_team_score": 0,
+            		"home_team_logo": "pig",
+					"visit_team_city": "Halifax",
+            		"visit_team_name": "Snails",
+            		"visit_team_score": 0,
+            		"visit_team_logo": "snail"
+            	},
+            	{
+					"game_state": "Pregame",
+            		"game_time": 1457381700,
+					"home_team_city": "London",
+            		"home_team_name": "Bears",
+            		"home_team_score": 0,
+            		"home_team_logo": "bear",
+					"visit_team_city": "Vancouver",
+            		"visit_team_name": "Rabbits",
+            		"visit_team_score": 0,
+            		"visit_team_logo": "rabbit"
+            	}
+            ]
+        },
+        {   "name": "Baseball",
+            "image": "baseball",
+            "games":
+            [
+            	{
+					"game_state": "Final",
+            		"game_time": 1457352000,
+					"home_team_city": "Thunder Bay",
+            		"home_team_name": "Dinos",
+            		"home_team_score": 10,
+            		"home_team_logo": "dinosaur",
+					"visit_team_city": "Charlottetown",
+            		"visit_team_name": "Dolphins",
+            		"visit_team_score": 2,
+            		"visit_team_logo": "dolphin"
+            	},
+            ]
+        },
+        {   "name": "Basketball",
+            "image": "basketball",
+            "games":
+            [
+				{
+					"game_state": "Final",
+            		"game_time": 1427169600,
+					"home_team_city": "Vancouver",
+            		"home_team_name": "Kittens",
+            		"home_team_score": 100,
+            		"home_team_logo": "kitten",
+					"visit_team_city": "Toronto",
+            		"visit_team_name": "Ladybugs",
+            		"visit_team_score": 92,
+            		"visit_team_logo": "ladybugs"
+            	},
+				{
+					"game_state": "Final",
+            		"game_time": 1427169600,
+					"home_team_city": "Saskatoon",
+            		"home_team_name": "Squids",
+            		"home_team_score": 90,
+            		"home_team_logo": "squid",
+					"visit_team_city": "Waterloo",
+            		"visit_team_name": "Lambs",
+            		"visit_team_score": 104,
+            		"visit_team_logo": "sheep"
+            	}
+            ]
+        }
+	]  
+}
